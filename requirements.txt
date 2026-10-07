@@ -1,0 +1,10 @@
+# Preview-only dependencies for image inspection and annotation visualization.
+# Full training and inference dependencies will be released with the source code.
+numpy>=1.23,<3.0
+Pillow>=9.2,<12.0
+matplotlib>=3.5,<4.0
+opencv-python-headless>=4.7,<5.0
+lxml>=4.9,<6.0
+PyYAML>=6.0,<7.0
+tqdm>=4.64,<5.0
+
